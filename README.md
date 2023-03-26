@@ -12,7 +12,7 @@ Le but de ce projet est de réimplémenter l'algorithme de MapReduce pour le cal
 * s : nombre de machines utilisés
 
 <p align='center'>
-  <img src="image/repartis.jpg"/>
+  <img src="image/schéma_projet.jpg"/>
   <p align='center'>Schéma du projet</p>
 </p>
 
